@@ -26,3 +26,18 @@ Format is as given below:
    
  
 -----------------------------------------------
+2. Name:Ezeilo chiagozie Emmanuel <br />
+   Email:emmanuelezeilo4@gmail.com <br />
+   Learning Track: Data science <br />
+   Skills: graphics designer < br />
+   Github: @E-boss28 <br />
+   and any  other details you wish to add. <br />
+ 3. Name : Nwafor Anselem Chijioke
+   email : anselemsnwafor@gmail.com
+   learning track: Date Science
+   skills Programmar ,
+   Whatsap details : 08166317926
+   
+   -------------------------------------------------
+   
+   
